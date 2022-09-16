@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "dbutil.h"
-
+/* comment add 2022/09/16 */
 #define CACHE_SIZE 1000
 
 Person* cache[CACHE_SIZE];
